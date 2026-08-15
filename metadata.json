@@ -1,0 +1,6 @@
+{
+  "name": "Muks Ryan Portfolio",
+  "description": "A futuristic, scalable personal portfolio and developer platform for Muks Ryan — Software Engineer | AI & Robotics Enthusiast with Supabase SQL and Google Workspace (Drive & Sheets) cloud storage integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
